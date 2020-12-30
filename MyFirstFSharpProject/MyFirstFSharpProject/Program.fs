@@ -1,12 +1,19 @@
-﻿// Learn more about F# at http://docs.microsoft.com/dotnet/fsharp
-// See the 'F# Tutorial' project for more help.
+﻿open System
+open Car
 
-// Define a function to construct a message to print
-let from whom =
-    sprintf "from %s" whom
+let getDestination() =
+    Console.Write("Enter destination: ")
+    Console.ReadLine()
+
+let mutable petrol = 100
 
 [<EntryPoint>]
 let main argv =
-    let message = from "F#" // Call the function
-    printfn "Hello world %s" message
-    0 // return an integer exit code
+    while true do
+        try
+            let destination = getDestination()
+            printfn "Trying to drive to %s" destination
+            petrol <- driveTo(petrol, destination)
+            printfn "Made it to %s! You have %d petrol left" destination petrol
+        with ex -> printfn "ERROR: %s" ex.Message
+    0
