@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2hO4ENYfg9WK7/Dh7ZR4eqsoOoTyVxl9w2kdxOZXzyOhdjGY9RgHg6fvTsYU1fT/eEawOzAheWjH/cA00XRxnw==",
+  "success": true,
+  "projectFilePath": "C:\\Projekte\\LearningFSharp\\MyFirstFSharpProject\\Capstone1\\Capstone1.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Maxi\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

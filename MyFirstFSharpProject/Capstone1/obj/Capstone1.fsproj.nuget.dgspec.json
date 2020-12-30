@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Projekte\\LearningFSharp\\MyFirstFSharpProject\\Capstone1\\Capstone1.fsproj": {}
+  },
+  "projects": {
+    "C:\\Projekte\\LearningFSharp\\MyFirstFSharpProject\\Capstone1\\Capstone1.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projekte\\LearningFSharp\\MyFirstFSharpProject\\Capstone1\\Capstone1.fsproj",
+        "projectName": "Capstone1",
+        "projectPath": "C:\\Projekte\\LearningFSharp\\MyFirstFSharpProject\\Capstone1\\Capstone1.fsproj",
+        "packagesPath": "C:\\Users\\Maxi\\.nuget\\packages\\",
+        "outputPath": "C:\\Projekte\\LearningFSharp\\MyFirstFSharpProject\\Capstone1\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Maxi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "FSharp.Core": {
+              "target": "Package",
+              "version": "[5.0.0, )",
+              "generatePathProperty": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
