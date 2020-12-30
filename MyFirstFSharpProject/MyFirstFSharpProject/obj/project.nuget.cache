@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MaehrtEqD6HB7LXxZjG94hKr1YI6gl5xwdTaOVsSG7LB0ZdwqDttHO9Y0wQEOpcCQHXPePyDEIz8ZuWoDhlOiA==",
+  "success": true,
+  "projectFilePath": "C:\\Projekte\\LearningFSharp\\MyFirstFSharpProject\\MyFirstFSharpProject\\MyFirstFSharpProject.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Maxi\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
