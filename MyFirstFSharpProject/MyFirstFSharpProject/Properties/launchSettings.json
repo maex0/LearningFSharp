@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MyFirstFSharpProject": {
+      "commandName": "Project",
+      "commandLineArgs": "test"
+    }
+  }
+}
