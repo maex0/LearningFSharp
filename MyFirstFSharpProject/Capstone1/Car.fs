@@ -22,17 +22,3 @@ let driveTo (petrol, destination) =
     let remainingPetrol = calculateRemainingPetrol(petrol, distance)
     if destination = "Gas" then remainingPetrol + 50
     else remainingPetrol
-
-type Car =
-    { Manufacturer : string
-      EngineSize : int
-      NumberOfDoors : int
-      Color : string
-      Price : double}
-      
-let testCar =
-    { Manufacturer = "test"
-      EngineSize = 5
-      NumberOfDoors = 3
-      Color = "Red"
-      Price = 10000.5 }
