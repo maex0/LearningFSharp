@@ -38,3 +38,21 @@ let timesBy a b = a * b
 let answer = 10 |> add 5 |> timesBy 2 |> add 20 |> add 7 |> timesBy 3
 let test = 3 |> add 4
 
+
+let drive distance petrol =
+    if distance = "far" then petrol / 2.0
+    elif distance = "medium" then petrol - 10.0
+    else petrol - 1.0
+    
+let startPetrol = 100.0
+startPetrol
+|> drive "far"
+|> drive "medium"
+|> drive "short"
+
+let checkCurrentDirectoryAge =
+    Directory.GetCurrentDirectory
+    >> Directory.GetCreationTime
+    >> checkCreation
+
+let description = checkCurrentDirectoryAge()
