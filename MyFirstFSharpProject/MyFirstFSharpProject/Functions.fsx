@@ -35,6 +35,7 @@ Directory.GetCurrentDirectory()
 let add a b = a + b
 let timesBy a b = a * b
 
+
 let answer = 10 |> add 5 |> timesBy 2 |> add 20 |> add 7 |> timesBy 3
 let test = 3 |> add 4
 
@@ -56,3 +57,22 @@ let checkCurrentDirectoryAge =
     >> checkCreation
 
 let description = checkCurrentDirectoryAge()
+
+
+
+/// Higher order functions
+
+type Customer = 
+    { Age: int }
+
+let where filter customers =
+    seq {
+        for customer in customers do
+            if filter customer then
+                yield customer }
+
+let customers = [{ Age = 21}; { Age = 35}; { Age = 36};]
+let isOver35 customer = customer.Age > 35
+
+customers |> where isOver35
+customers |> where (fun customer -> customer.Age > 35)
