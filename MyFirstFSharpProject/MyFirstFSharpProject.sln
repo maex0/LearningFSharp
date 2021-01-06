@@ -9,6 +9,8 @@ Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "Capstone1", "Capstone1\Caps
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "TestProjectForLesson12", "TestProjectForLesson12\TestProjectForLesson12.fsproj", "{854493FF-1DEE-468A-B08B-77B7E94D40DC}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Capstone2", "Capstone2\Capstone2.fsproj", "{A2E394B1-C510-4881-BD94-41102ED68271}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{854493FF-1DEE-468A-B08B-77B7E94D40DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{854493FF-1DEE-468A-B08B-77B7E94D40DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{854493FF-1DEE-468A-B08B-77B7E94D40DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2E394B1-C510-4881-BD94-41102ED68271}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2E394B1-C510-4881-BD94-41102ED68271}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2E394B1-C510-4881-BD94-41102ED68271}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2E394B1-C510-4881-BD94-41102ED68271}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
