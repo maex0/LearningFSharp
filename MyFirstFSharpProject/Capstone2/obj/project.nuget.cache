@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ENVU3G+h7BmaXmIDrzBQvDZY11OJwfz/DbzYOsDuvpuzi/ghO5l4d/+SjRDiJ7VBtisspFCtOQ7LMJj5y/xe7A==",
+  "dgSpecHash": "MFunll/bkqEMUAiqwH4siJ2nlQHTm8deXJo++h9rI1mxGRd877JxH4xwaMBVVTQft59lLRb0haW+FpLEJr6WCA==",
   "success": true,
-  "projectFilePath": "C:\\Projekte\\LearningFSharp\\MyFirstFSharpProject\\Capstone2\\Capstone2.fsproj",
+  "projectFilePath": "/Users/maximiliangobbel/Projects/Privat/LearningFSharp/LearningFSharp/MyFirstFSharpProject/Capstone2/Capstone2.fsproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Maxi\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+    "/Users/maximiliangobbel/.nuget/packages/fsharp.core/5.0.0/fsharp.core.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }

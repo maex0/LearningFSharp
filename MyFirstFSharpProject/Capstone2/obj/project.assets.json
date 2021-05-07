@@ -89,30 +89,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Maxi\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/Users/maximiliangobbel/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projekte\\LearningFSharp\\MyFirstFSharpProject\\Capstone2\\Capstone2.fsproj",
+      "projectUniqueName": "/Users/maximiliangobbel/Projects/Privat/LearningFSharp/LearningFSharp/MyFirstFSharpProject/Capstone2/Capstone2.fsproj",
       "projectName": "Capstone2",
-      "projectPath": "C:\\Projekte\\LearningFSharp\\MyFirstFSharpProject\\Capstone2\\Capstone2.fsproj",
-      "packagesPath": "C:\\Users\\Maxi\\.nuget\\packages\\",
-      "outputPath": "C:\\Projekte\\LearningFSharp\\MyFirstFSharpProject\\Capstone2\\obj\\",
+      "projectPath": "/Users/maximiliangobbel/Projects/Privat/LearningFSharp/LearningFSharp/MyFirstFSharpProject/Capstone2/Capstone2.fsproj",
+      "packagesPath": "/Users/maximiliangobbel/.nuget/packages/",
+      "outputPath": "/Users/maximiliangobbel/Projects/Privat/LearningFSharp/LearningFSharp/MyFirstFSharpProject/Capstone2/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Maxi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/maximiliangobbel/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -147,7 +141,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
       }
     }
   }

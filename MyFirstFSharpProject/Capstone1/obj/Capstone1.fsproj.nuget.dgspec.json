@@ -1,30 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projekte\\LearningFSharp\\MyFirstFSharpProject\\Capstone1\\Capstone1.fsproj": {}
+    "/Users/maximiliangobbel/Projects/Privat/LearningFSharp/LearningFSharp/MyFirstFSharpProject/Capstone1/Capstone1.fsproj": {}
   },
   "projects": {
-    "C:\\Projekte\\LearningFSharp\\MyFirstFSharpProject\\Capstone1\\Capstone1.fsproj": {
+    "/Users/maximiliangobbel/Projects/Privat/LearningFSharp/LearningFSharp/MyFirstFSharpProject/Capstone1/Capstone1.fsproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projekte\\LearningFSharp\\MyFirstFSharpProject\\Capstone1\\Capstone1.fsproj",
+        "projectUniqueName": "/Users/maximiliangobbel/Projects/Privat/LearningFSharp/LearningFSharp/MyFirstFSharpProject/Capstone1/Capstone1.fsproj",
         "projectName": "Capstone1",
-        "projectPath": "C:\\Projekte\\LearningFSharp\\MyFirstFSharpProject\\Capstone1\\Capstone1.fsproj",
-        "packagesPath": "C:\\Users\\Maxi\\.nuget\\packages\\",
-        "outputPath": "C:\\Projekte\\LearningFSharp\\MyFirstFSharpProject\\Capstone1\\obj\\",
+        "projectPath": "/Users/maximiliangobbel/Projects/Privat/LearningFSharp/LearningFSharp/MyFirstFSharpProject/Capstone1/Capstone1.fsproj",
+        "packagesPath": "/Users/maximiliangobbel/.nuget/packages/",
+        "outputPath": "/Users/maximiliangobbel/Projects/Privat/LearningFSharp/LearningFSharp/MyFirstFSharpProject/Capstone1/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Maxi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/maximiliangobbel/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net472"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -42,14 +37,15 @@
               "target": "Package",
               "version": "[5.0.0, )",
               "generatePathProperty": true
+            },
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )",
+              "autoReferenced": true
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
-        }
-      },
-      "runtimes": {
-        "win7-x86": {
-          "#import": []
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
         }
       }
     }

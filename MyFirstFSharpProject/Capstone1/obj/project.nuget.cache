@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "2hO4ENYfg9WK7/Dh7ZR4eqsoOoTyVxl9w2kdxOZXzyOhdjGY9RgHg6fvTsYU1fT/eEawOzAheWjH/cA00XRxnw==",
+  "dgSpecHash": "3tDMz1E+3R6Sx0cV73s2ENSJn5IT8WWwFBQcH1BX7dvBgWSEAl1n2eQzSPD10JTFhiK7O6hw+rQEgK1lbWx4MQ==",
   "success": true,
-  "projectFilePath": "C:\\Projekte\\LearningFSharp\\MyFirstFSharpProject\\Capstone1\\Capstone1.fsproj",
+  "projectFilePath": "/Users/maximiliangobbel/Projects/Privat/LearningFSharp/LearningFSharp/MyFirstFSharpProject/Capstone1/Capstone1.fsproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Maxi\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+    "/Users/maximiliangobbel/.nuget/packages/fsharp.core/5.0.0/fsharp.core.5.0.0.nupkg.sha512",
+    "/Users/maximiliangobbel/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.0/microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "/Users/maximiliangobbel/.nuget/packages/microsoft.netframework.referenceassemblies.net472/1.0.0/microsoft.netframework.referenceassemblies.net472.1.0.0.nupkg.sha512"
   ],
   "logs": []
 }

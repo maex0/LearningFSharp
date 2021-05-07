@@ -1,30 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projekte\\LearningFSharp\\MyFirstFSharpProject\\TestProjectForLesson12\\TestProjectForLesson12.fsproj": {}
+    "/Users/maximiliangobbel/Projects/Privat/LearningFSharp/LearningFSharp/MyFirstFSharpProject/TestProjectForLesson12/TestProjectForLesson12.fsproj": {}
   },
   "projects": {
-    "C:\\Projekte\\LearningFSharp\\MyFirstFSharpProject\\TestProjectForLesson12\\TestProjectForLesson12.fsproj": {
+    "/Users/maximiliangobbel/Projects/Privat/LearningFSharp/LearningFSharp/MyFirstFSharpProject/TestProjectForLesson12/TestProjectForLesson12.fsproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projekte\\LearningFSharp\\MyFirstFSharpProject\\TestProjectForLesson12\\TestProjectForLesson12.fsproj",
+        "projectUniqueName": "/Users/maximiliangobbel/Projects/Privat/LearningFSharp/LearningFSharp/MyFirstFSharpProject/TestProjectForLesson12/TestProjectForLesson12.fsproj",
         "projectName": "TestProjectForLesson12",
-        "projectPath": "C:\\Projekte\\LearningFSharp\\MyFirstFSharpProject\\TestProjectForLesson12\\TestProjectForLesson12.fsproj",
-        "packagesPath": "C:\\Users\\Maxi\\.nuget\\packages\\",
-        "outputPath": "C:\\Projekte\\LearningFSharp\\MyFirstFSharpProject\\TestProjectForLesson12\\obj\\",
+        "projectPath": "/Users/maximiliangobbel/Projects/Privat/LearningFSharp/LearningFSharp/MyFirstFSharpProject/TestProjectForLesson12/TestProjectForLesson12.fsproj",
+        "packagesPath": "/Users/maximiliangobbel/.nuget/packages/",
+        "outputPath": "/Users/maximiliangobbel/Projects/Privat/LearningFSharp/LearningFSharp/MyFirstFSharpProject/TestProjectForLesson12/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Maxi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/maximiliangobbel/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -59,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
         }
       }
     }

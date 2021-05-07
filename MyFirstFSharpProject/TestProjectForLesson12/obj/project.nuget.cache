@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "3XyOSVdLAmCfv4SHjYSVdMAfL/pp0T4MnTvjYBUXL6eWwkAgkuyNvX2lFuDR4+uG+nAqspmKfQK94vBaJamLkg==",
+  "dgSpecHash": "J8nJXGeNIuzA2SpW8BCTmGWW5El2azzr9fzrNoNcR6Um8TwXQAfA5gPz0NDvzvVpf1yn5LkXnnvx5J0izfiXsg==",
   "success": true,
-  "projectFilePath": "C:\\Projekte\\LearningFSharp\\MyFirstFSharpProject\\TestProjectForLesson12\\TestProjectForLesson12.fsproj",
+  "projectFilePath": "/Users/maximiliangobbel/Projects/Privat/LearningFSharp/LearningFSharp/MyFirstFSharpProject/TestProjectForLesson12/TestProjectForLesson12.fsproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Maxi\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+    "/Users/maximiliangobbel/.nuget/packages/fsharp.core/5.0.0/fsharp.core.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }
