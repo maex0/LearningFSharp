@@ -18,8 +18,8 @@ jobs:
       with:
         dotnet-version: 5.0.x
     - name: Restore dependencies
-      run: dotnet restore ./MyFirstFSharpProjec
+      run: dotnet restore ./MyFirstFSharpProject/MyFirstFSharpProject.sln
     - name: Build
-      run: dotnet build ./MyFirstFSharpProject --no-restore
+      run: dotnet build ./MyFirstFSharpProject/MyFirstFSharpProject.sln --no-restore
    # - name: Test
    #   run: dotnet test --no-build --verbosity normal
